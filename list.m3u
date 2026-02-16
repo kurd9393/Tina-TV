@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.rudaw.net/Content/images/rudaw-logo.png" group-title="Kurdish",Rudaw TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kur/rudaw.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kurdistan24.net/Content/images/logo.png" group-title="Kurdish",Kurdistan 24
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kur/k24.m3u8
